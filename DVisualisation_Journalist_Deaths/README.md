@@ -9,22 +9,22 @@
 
 The "Lost Journalists Dataset" includes the following columns:
 
-    * Date of the incident
-    * Name of the victim
-    * Sexual orientation of the victim (if confirmed)
-    * Country where the incident took place
-    * Organization
-    * Nationality
-    * Medium of reach
-    * Job
-    * Topic coverage
-    * Indigenousy
-    * Type of group associated with the incident
-    * Type of death
-    * Impunity of the propagating member (Yes, No, Partial)
-    * Captivity of the victim (True or False)
-    * Reported threats against the victim (True or False)
-    * Reported torture conducted against the victim (True or False)
+* Date of the incident
+* Name of the victim
+* Sexual orientation of the victim (if confirmed)
+* Country where the incident took place
+* Organization
+* Nationality
+* Medium of reach
+* Job
+* Topic coverage
+* Indigenousy
+* Type of group associated with the incident
+* Type of death
+* Impunity of the propagating member (Yes, No, Partial)
+* Captivity of the victim (True or False)
+* Reported threats against the victim (True or False)
+* Reported torture conducted against the victim (True or False)
 
 Additionally, the dataset incorporates information retrieved from the Plotly country codes library, including three-letter country codes. The data is publicly available on Kaggle and does not violate any copyright restrictions. To ensure privacy and ethical considerations, the dataset does not contain specific names of the victims.
 
