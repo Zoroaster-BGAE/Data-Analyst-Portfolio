@@ -36,7 +36,7 @@ The testing methodology involves evaluating the performance of the models in a g
 
 Additionally, the L1 loss metric is employed to compare the performance of both engines on common grounds. By using the same loss metric, a favorable comparison for the deterministic approach is expected.
 
-Before comparing the models, the BNN (Bayesian Neural Network) will be trained with different sets of priors, and the set that yields the smallest loss will be selected. Then, using those priors, the BNN will be tested with different types of activation functions to determine which one works better with the Bayesian model.
+Before comparing the models, the BNN (Bayesian Neural Network) are trained with different sets of priors, and the set that yields the smallest loss will be selected. Then, using those priors, the BNN will be tested with different types of activation functions to determine which one works better with the Bayesian model.
 
 ## Conclusions ##
 
